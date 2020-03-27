@@ -3,8 +3,9 @@
 border-radius: 10px;}
 .carousel-item{padding: 20px 40px;}
 .price{color: #FF136F;}
-.bye-now-button{background-image: linear-gradient(to bottom, #FF589B 0% #FF136F 100%);
-    color: #FFF;
+.bye-now-button{background-image:linear-gradient(to bottom, #FF589B 0% #FF136F 100%);
+   background-color:#FF136F ;
+    color:white;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
